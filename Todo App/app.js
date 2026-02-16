@@ -6,8 +6,6 @@ const clearButton = document.querySelector('.clear')
 let msg = document.querySelector('.msg')
 
 
-
-
 // all event listener
 form.addEventListener('click', addTask)
 task.addEventListener('click',removeItems)
